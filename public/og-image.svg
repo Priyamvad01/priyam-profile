@@ -1,0 +1,17 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#070B12"/>
+  <path d="M0 0H1200V630H0V0Z" fill="url(#bg)"/>
+  <path d="M96 110H1104V520H96V110Z" fill="#0B111B" fill-opacity="0.72"/>
+  <path d="M96 110H1104V520H96V110Z" stroke="#AFBED3" stroke-opacity="0.18" stroke-width="2"/>
+  <text x="140" y="190" fill="#93CAFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">PYTHON BACKEND / AI / CLOUD</text>
+  <text x="140" y="300" fill="#F6F9FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">Priyamvad Ranjan</text>
+  <text x="140" y="374" fill="#DCE6F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="600">AI &amp; Cloud Engineer Portfolio</text>
+  <text x="140" y="452" fill="#AFBED3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30">Python backends, AI-ready systems, AWS learning, and DevOps practice.</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172033"/>
+      <stop offset="0.48" stop-color="#0B111B"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+  </defs>
+</svg>

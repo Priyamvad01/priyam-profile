@@ -1,0 +1,1 @@
+export { getSectionId } from './getSectionId'

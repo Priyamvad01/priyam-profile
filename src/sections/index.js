@@ -1,0 +1,7 @@
+export { AboutSection } from './AboutSection'
+export { CloudDevOpsSection } from './CloudDevOpsSection'
+export { ContactSection } from './ContactSection'
+export { ExperienceLearningJourneySection } from './ExperienceLearningJourneySection'
+export { FeaturedProjectsSection } from './FeaturedProjectsSection'
+export { HeroSection } from './HeroSection'
+export { TechnicalExpertiseSection } from './TechnicalExpertiseSection'
